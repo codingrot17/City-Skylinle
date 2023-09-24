@@ -300,6 +300,10 @@
     border: none;
     cursor: pointer;
   }
+  iframe{
+    position: absolute;
+    left: 1px;
+  }
   
   @media (max-width: 900px) {
     :root {
